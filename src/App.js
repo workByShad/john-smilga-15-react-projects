@@ -3,7 +3,7 @@ import { Fragment } from 'react';
 function App() {
   return (
     <Fragment>
-      <h1>linus. T</h1>
+      <h1>Linus. T</h1>
     </Fragment>
   );
 }
