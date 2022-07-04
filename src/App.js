@@ -1,4 +1,5 @@
-import { Fragment } from 'react';
+import { Fragment, useState, useEffect } from 'react';
+const url = 'https://course-api.com/react-tours-project';
 
 function App() {
   return (
